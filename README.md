@@ -122,6 +122,7 @@ the gap is **traffic, not spend per visit**.
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
-## 👤 Author
-**Kavin V** | Computer Science & Engineering graduate | Data Analytics
-🔗 [LinkedIn](paste-your-linkedin-profile-link) | 💻 [GitHub](https://github.com/Kavin0624)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/kavin-v-661b05285/)
+- **Email** : [Connect with me professionally](kavin62405@gmail.com)
+
+Thank you for your support, and I look forward to connecting with you!
